@@ -1,0 +1,55 @@
+record.number,animal.name,body.mass,brain.mass
+1,Lesser Short-tailed Shrew,5,0.14
+2,Little Brown Bat,10,0.25
+3,Mouse,23,0.3
+4,Big BrownBat,23,0.4
+5,Musk Shrew,48,0.33
+6,Star Nosed Mole,60,1
+7,Eastern American Mole,75,1.2
+8,Ground Squirrel,101,4
+9,Tree Shrew,104,2.5
+10,Golden Hamster,120,1
+11,Mole Rat,122,3
+12,Galago,200,5
+13,Rat,280,1.9
+14,Chinchilla,425,6.4
+15,Desert Hedgehog,550,2.4
+16,Rock Hyrax (a),750,12.3
+17,European Hedgehog,785,3.5
+18,Tenrec ,900,2.6
+19,Arctic Ground Squirrel,920,5.7
+20,African Giant Pouched,1000,6.6
+21,Guinea Pig,1040,5.5
+22,Mountain Beaver,1350,8.1
+23,Slow Loris,1400,12.5
+24,Genet,1410,17.5
+25,Phalanger,1620,11.4
+26,North American Opossum,1700,6.3
+27,Tree Hyrax,2000,12.3
+28,Rabbit,2500,12.1
+29,Echidna,3000,25
+30,Cat,3300,25.6
+31,Arctic Fox,3385,44.5
+32,Nine-banded Armadillo,3500,10.8
+33,Water Opossum,3500,3.9
+34,Rock Hyrax (b),3600,21
+35,Red Fox,4235,50.4
+36,Raccoon,4288,39.2
+37,Roe Deer,14830,98.2
+38,Goat,27660,115
+39,Kangaroo,35000,56
+40,Gray Wolf,36330,119.5
+41,Sheep,55500,175
+42,Giant Armadillo,60000,81
+43,Gray Seal,85000,325
+44,Jaguar,100000,157
+45,Brazilian Tapir,160000,169
+46,Donkey,187100,419
+47,Pig,192000,180
+48,Okapi,250000,490
+49,Cow,465000,423
+50,Horse,521000,655
+51,Giraffe,529000,680
+52,Asian Elephant,2547000,4603
+53,African Elephant,6654000,5712
+54,Blue Whale,58059000,6800
